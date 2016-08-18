@@ -1,8 +1,6 @@
 //
 //  CalendarVC.swift
-//  Apni Kitty
 //
-//  Created by Pradeep singh on 26/07/16.
 //  Copyright © 2016 NetSet. All rights reserved.
 //
 
